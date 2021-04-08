@@ -23,7 +23,7 @@ Mendeklarasikan Inline CSS pada tag `<p>` sebagai berikut.
 
 ## Langkah 4
 ### Membuat CSS Eksternal
-Membuat tampilan warna background pada CSS Eksternal kemudian menambahkan tag `<link>` pada bagian `<head>` dalam dokumen HTML CSS Eksternal tersebut.
+Membuat tampilan warna background pada CSS Eksternal kemudian menambahkan tag `<link>` pada bagian `<head>` dalam dokumen HTML untuk memuat dokumen CSS Eksternal tersebut.
 ![SS LANGKAH 4](https://user-images.githubusercontent.com/56240719/113897235-e1245080-97f4-11eb-92b9-a429db2021f1.png)
 
 ## Langkah 5
