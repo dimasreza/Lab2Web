@@ -1,0 +1,58 @@
+body{
+    background: url('logoupb.png');
+    background-size: 200px 
+}
+nav{
+    background: #e40000;
+    color:rgb(255, 255, 255);
+    padding: 10px;
+}
+nav a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding:10px 20px;
+}
+nav .active,
+nav a:hover{
+    background: #09008b;
+}
+
+/* ID Selector */
+#intro{
+    background: #09008b;
+    border: 1px solid #ffffff;
+    min-height: 100px;
+    padding: 10px;
+}
+#intro h1{
+    text-align: left;
+    border: 0;
+    color: rgb(255, 255, 255);
+}
+#intro p{
+    border-style: dashed;
+    border-color: #e40000;
+}
+#paragraf-1{
+    font-size: 30px;
+    border-style: ridge;
+    color: #e40000;
+    background: #fffb00;
+
+}
+/* Class Selector */
+.button{
+    padding: 15px 25px;
+    background: #ffffff;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none
+}
+.btn-primary{
+    background: #e40000;
+}
+.text-paragraf{
+    color: #09008b;
+    text-align: center;
+}
